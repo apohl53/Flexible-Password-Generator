@@ -3,3 +3,5 @@ A password generator capable of using both uppercase and lowercase letters as we
 
 
 ./assets/screenshot.png
+
+https://apohl53.github.io/Flexible-Password-Generator/
